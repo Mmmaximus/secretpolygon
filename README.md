@@ -1,5 +1,5 @@
-# Pentagram
-Векторный графический редактор
+[![Открыть редактор](Pentagram.png)](https://bmstu-iu9.github.io/ptp2021-3-vector-editor/)
+# Векторный графический редактор
 
 ## Разработчики проекта
 * Усанов Максим (капитан) - <a href=https://github.com/Mmmaximus> @Mmmaximus </a>  
