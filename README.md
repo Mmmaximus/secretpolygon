@@ -1,5 +1,5 @@
 [![](img/main_logo.svg)](https://bmstu-iu9.github.io/ptp2021-3-vector-editor/)
-# Векторный графический редактор
+# Редактор svg-файлов
 
 ## Разработчики проекта
 * Усанов Максим (капитан) - <a href=https://github.com/Mmmaximus> @Mmmaximus </a>  
