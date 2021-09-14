@@ -1,4 +1,4 @@
-<div style="background-color: #000">
+<div style="background-color: #000000">
 # ptp2021-3-vector-editor
 Векторный графический редактор
 
