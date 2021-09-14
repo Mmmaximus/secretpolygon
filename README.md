@@ -1,3 +1,4 @@
+<div style="background-color: #000">
 # ptp2021-3-vector-editor
 Векторный графический редактор
 
@@ -7,3 +8,4 @@
 * Дельман Александр - <a href=https://github.com/xendalm> @xendalm </a>
 * Шевченко Кирилл - <a href=https://github.com/shevchenkokk> @shevchenkokk </a>
 * Мещанов Александр - <a href=https://github.com/Meschine> @Meschine </a> 
+</div>
