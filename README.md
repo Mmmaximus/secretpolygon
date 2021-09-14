@@ -1,4 +1,4 @@
-[![Открыть редактор](img/Pentagtam.png)](https://bmstu-iu9.github.io/ptp2021-3-vector-editor/)
+[![Открыть редактор](img/main_logo.svg)](https://bmstu-iu9.github.io/ptp2021-3-vector-editor/)
 # Векторный графический редактор
 
 ## Разработчики проекта
