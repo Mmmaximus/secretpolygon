@@ -2,8 +2,8 @@
 # Редактор svg-файлов
 
 ## Разработчики проекта
-* Усанов Максим (капитан) - <a href=https://github.com/Mmmaximus> @Mmmaximus </a>  
+* Усанов Максим (капитан) - <a href=https://github.com/Mmmaximus> @mmmaximus </a>  
 * Терентьева Анна - <a href=https://github.com/mathhyyn> @mathhyyn </a>
 * Дельман Александр - <a href=https://github.com/xendalm> @xendalm </a>
 * Шевченко Кирилл - <a href=https://github.com/shevchenkokk> @shevchenkokk </a>
-* Мещанов Александр - <a href=https://github.com/Meschine> @Meschine </a> 
+* Мещанов Александр - <a href=https://github.com/Meschine> @meschine </a> 
